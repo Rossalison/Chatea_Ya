@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+button{
+    background-color: #F0C0BF;
+    text-decoration-color: black;
+    text-decoration: solid;
+    size: 300px;
+}
+
+input{
+    size: 500px;
+}
